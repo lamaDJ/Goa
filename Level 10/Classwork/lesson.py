@@ -1,0 +1,15 @@
+name = input('Enter your name: ')
+surname = input('Enter your surname: ')
+age = int(input('Enter your age: '))
+number1 = int(input('Enter your ID number: '))
+number2 = int(input('Enter your phone number:'))
+print(name)
+print(surname)
+print(age)
+print(number1)
+print(number2)
+
+
+num1 = int(input('Enter your age: '))
+num2 = int(input('Enter your phone number: '))
+print(num1 + num2)
