@@ -1,0 +1,13 @@
+name = input('Type your name: ')
+surname = input('Type your surname: ')
+age = int(input('Type your age: '))
+email = input('Type your Email: ')
+birth_of_year = int(input('Type your birth of year: '))
+birthday = int(input('Type your birthday: '))
+
+print(name)
+print(surname)
+print(age)
+print(email)
+print(birth_of_year)
+print(birthday)
