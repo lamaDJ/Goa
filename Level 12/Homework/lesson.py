@@ -1,0 +1,30 @@
+# print(1)
+# print(2)
+# print(3)
+# print(4)
+# print(5)
+
+# print('Salami')
+# print('Alo')
+# print('Gamarjoba')
+# print('Aaa')
+# print('ff')
+
+# print(5.5)
+# print(5.6)
+# print(4.6)
+# print(1.4)
+# print(5.6)
+
+age1 = int(input('შეიყვანეთ ასაკი:'))
+age2 = int(input('შეიყვანეთ ასაკი:'))
+age3 = int(input('შეიყვანეთ ასაკი:'))
+
+print(age1 + age2 + age3 / 3)
+
+print(num1 > num2)
+print(num1 < num2)
+print(num1 == num2)
+print(num1 != num2)
+print(num1 <= num2)
+print(num1 >= num2)
