@@ -1,3 +1,0 @@
-"# Goa" 
-"# goas" 
-"# goas" 
