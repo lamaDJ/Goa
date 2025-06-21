@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+a:link {
+    color: black;
+    background-color: white;
+  }
+
+a:visited {
+    color:brown;
+    background-color: gray;
+
+}
+
+a:hover {
+    color: white;
+    background-color: orange;
+}
+
+a:active {
+    color: white;
+    background-color: red;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+}

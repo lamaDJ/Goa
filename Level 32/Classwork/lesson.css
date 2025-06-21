@@ -1,0 +1,32 @@
+div {
+    background-color: lightblue;
+    width: 800px;
+    padding: 20px;
+    border: 2px solid blue;
+
+}
+@media screen and (max-width: 800px) {
+    div {
+        background-color: lightgreen;
+        width: 100%;
+        padding: 10px;
+        border: 1px solid green;
+    }
+}
+/* ----------------------------------------------------------------------------------- */
+@media screen and (max-width: 500px) {
+    photo {
+        width: 50%;
+        height: 50%;
+
+    }
+}
+
+p {
+    font-size: 50%;
+    text-decoration-line: line-through overline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+    text-shadow: 5px 10px 5px orange;
+}

@@ -1,0 +1,48 @@
+    /* PIRVELI DAVALEBIS */
+#h1{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#h2{
+    color: green;
+    background-color: yellow;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#h3{
+    color: blue;
+    background-color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+    /* MEORE DAVALEBIS */
+#h1{
+    color: white;
+    background-color: orange;
+    font-size: 36px;
+    text-align: center;
+}
+
+    /* MESAME DAVALEBIS */
+#h1{
+    color: blue;
+    background-color: orange;
+    font-size: 58px;
+    font-weight: larger;
+}
+
+#h2{
+    color: green;
+    background-color: red;
+    font-size: taller;
+    font-weight: smaller;
+}
+
+#h3{
+    text-align: center;
+}

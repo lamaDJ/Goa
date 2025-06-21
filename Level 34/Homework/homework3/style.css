@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    color: black;
+
+}
+
+div:hover {
+    background-color: #f0f8ff;
+    font-weight: bold;
+}

@@ -1,0 +1,80 @@
+div {
+    background-color: blueviolet;
+    color: tomato;
+    width: 500;
+    height: 500;
+    border: 5px solid black;
+}
+
+@media screen and (max-width: 600px) {
+    div {
+        background-color: green;
+        color: blueviolet;
+        width: 90%;   
+    }
+}
+
+second.div {
+    font-size: 50%;
+    text-transform: uppercase;
+    text-decoration-style: wavy;
+    text-decoration-line: overline line-through;
+    color: green;
+}
+
+.hello {
+    text-align: right;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: green;    
+}
+
+.world {
+    text-align: center;
+    text-decoration-line: line-through;
+}
+
+.dz {
+    text-decoration-line: overline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+}
+
+.goal {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.oriented {
+    text-align: right;
+    text-decoration-line: line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: green;
+}
+
+.academy {
+    text-decoration-line: line-through;
+}
+
+.is {
+    text-decoration-line : overline;
+}
+
+.the {
+    text-align: right;
+    text-decoration-line: overline;
+    text-decoration-color: green;
+}
+
+.best {
+    text-align: center;
+    text-decoration-line: overline;
+    color: gray;
+}
+
+.one {
+    text-align: right;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: green;
+}

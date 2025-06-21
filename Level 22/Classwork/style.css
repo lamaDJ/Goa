@@ -1,0 +1,39 @@
+#p1{
+    color: red;
+    background-color: black;
+    font-size: larger;
+    font-weight: 50px;
+    font-family: Arial;
+}
+
+.p2{
+    color: blue;
+    background-color: yellow;
+    font-size: small;
+    font-weight: 600px;
+    text-align: center;
+}
+
+.p3{
+    color: blue;
+    background-color: red;
+    font-size: 30px;
+    font-weight: 50px;
+    text-align: right;
+}
+
+.p4{
+    color: green;
+    background-color: cyan;
+    font-size: 50px;
+    font-weight: 50px;
+    text-align: start;
+}
+
+.p5{
+    color: red;
+    background-color: aqua;
+    font-size: 50px;
+    font-weight: 50px;
+    text-align: center;
+}
